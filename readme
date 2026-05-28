@@ -1,1 +1,17 @@
-readme
+v1.0.0 - Initial Release
+
+YXX Comment Commander Pro — A professional comment management plugin.
+Features
+
+Per-post/page control (with a "Comment Control" sidebar on the edit screen)
+Bulk enable/disable comments
+One-click deletion of all comments (irreversible, use with caution)
+Hide comments from guest visitors
+Installation
+Download the zip file
+WordPress Dashboard → Plugins → Add New → Upload Plugin
+After activation, navigate to Settings → Comment Commander Pro and enter your Creem License Key
+Notes
+Requires PHP 7.4+ and WordPress 5.5+
+A valid Creem License Key is required to activate Pro features
+Automatic updates check for new versions via the GitHub API
